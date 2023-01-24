@@ -1,0 +1,29 @@
+body {
+  margin: 30px;
+  font-family: Arial, sans-serif;
+  color: rgb(62, 22, 99);
+  font-size: 20px;
+}
+
+.input {
+  font-family: Arial, sans-serif;
+  color: rgb(62, 22, 99);
+  font-size: 20px;
+  border: 1px solid grey;
+  margin-bottom: 20px;
+  width: 600px;
+  outline: 1px solid rgb(151, 146, 146);;
+}
+
+.output {
+  width: 600px;
+  border: 1px solid rgb(156, 107, 154)
+}
+
+button {
+  display: block;
+  width: 150px;
+  height: 30px;
+  margin-bottom: 20px;
+  font-size: 16px;
+}
